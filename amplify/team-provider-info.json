@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tiktokbutforgaming-dev-184529-authRole",
+      "UnauthRoleArn": "arn:aws:iam::304074195227:role/amplify-tiktokbutforgaming-dev-184529-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::304074195227:role/amplify-tiktokbutforgaming-dev-184529-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-tiktokbutforgaming-dev-184529-deployment",
+      "UnauthRoleName": "amplify-tiktokbutforgaming-dev-184529-unauthRole",
+      "StackName": "amplify-tiktokbutforgaming-dev-184529",
+      "StackId": "arn:aws:cloudformation:us-west-2:304074195227:stack/amplify-tiktokbutforgaming-dev-184529/2ef231c0-7eef-11eb-a6be-0afe4f9252ff",
+      "AmplifyAppId": "d3gn84ftao0r8m"
+    },
+    "categories": {
+      "auth": {
+        "tiktokbutforgamingd29152a2": {}
+      }
+    }
+  }
+}
